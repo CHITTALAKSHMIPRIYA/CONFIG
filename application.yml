@@ -10,7 +10,6 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-      database: bridgeit
-
+      database: bridgelabz
 
 
